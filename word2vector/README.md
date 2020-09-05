@@ -92,3 +92,4 @@ skip-gram input samples:
 ## Reference
 
 * [word2vec-with-gensim](http://zake7749.github.io/2016/08/28/word2vec-with-gensim/)
+* [tensorflow-word2vector](https://mofanpy.com/tutorials/machine-learning/nlp/cbow/)
