@@ -86,6 +86,7 @@ skip-gram input samples:
 ## WORD2VECTOR tool
 
 講到word2vetor的工具，一定是先使用gemsim，這個函式庫包含了許多NLP的方法可以使用，而也包裝了word2vector常用的兩種方法，至於怎麼使用可以參考reference，而以下的結果圖，就是針對韓國明星和中國明星使用CBOW建出來的並使用PCA將embedding降為2維的空間圖。
+## 基於維基百科的中韓明星mbedding
 ![word-top10](gensim_word2vector_result.png)
 ![中國明星VS韓國明星](word2vector.png)
 
